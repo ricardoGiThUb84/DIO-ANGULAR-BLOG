@@ -1,0 +1,15 @@
+.container__small-card {
+  width: 600px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 15px;
+}
+
+.small-card__photo > img {
+  max-width: 200px;
+
+  margin-right: 5px;
+}
