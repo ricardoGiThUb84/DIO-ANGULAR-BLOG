@@ -5,8 +5,6 @@ ul {
 .container__menu-bar > ul {
   display: flex;
   flex-direction: row;
-
-  border: 1px solid white;
 }
 
 .container__menu-bar > ul > li {
